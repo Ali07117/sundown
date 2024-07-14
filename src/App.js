@@ -194,11 +194,11 @@ function App() {
             </div>
             <div className="second-anime-container-left h-[100%]  w-[60%] -bg-[red] flex items-center">
               <div className="text-div leading-[70px] z-[12]">
-                <h3 className='text-[55px] center-text font-[700] z-[12]'>We are a group of design-</h3>
-                <h3 className='text-[55px] center-text font-[700] z-[12]'>driven, goal-focused creators,</h3>
-                <h3 className='text-[55px] center-text font-[700] z-[12]'>producers, and designers</h3>
-                <h3 className='text-[55px] center-text font-[700] z-[12]'>who believe that the details</h3>
-                <h3 className='text-[55px] center-text font-[700] z-[12]'>make all the difference.</h3>
+                <h3 className='text-[55px] group-text center-text font-[700] z-[12]'>We are a group of design-</h3>
+                <h3 className='text-[55px] group-text center-text font-[700] z-[12]'>driven, goal-focused creators,</h3>
+                <h3 className='text-[55px] group-text center-text font-[700] z-[12]'>producers, and designers</h3>
+                <h3 className='text-[55px] group-text center-text font-[700] z-[12]'>who believe that the details</h3>
+                <h3 className='text-[55px] group-text center-text font-[700] z-[12]'>make all the difference.</h3>
               </div>
             </div>
             <div className="second-anime-container-right h-[100%] w-[40%] -bg-[green] flex items-end pb-[120px] justify-end">

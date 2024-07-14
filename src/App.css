@@ -50,10 +50,13 @@
  .footer-layer{height: 200px;}
 }
 @media screen and (max-width: 618px) {
- .hero-text{font-size: 60px; line-height:70px;}
- .hero-para{font-size: 24px;}
- .hover-text{font-size: 20px;}
- .hover-text-brand{font-size: 11px;}
- .load{font-size: 55px;}
- .center-video{height: 70vh; object-fit: cover;}
+    .hero-text{font-size: 60px; line-height:70px;}
+    .hero-para{font-size: 24px;}
+    .hover-text{font-size: 20px;}
+    .hover-text-brand{font-size: 11px;}
+    .load{font-size: 55px;}
+    .center-video{height: 70vh; object-fit: cover;}
 }
+@media screen and (max-width: 462px) {.group-text{font-size: 26px; line-height: 40px;}}
+@media screen and (max-width: 462px) {.group-text{font-size: 24px; line-height: 37px;}}
+@media screen and (max-width: 380px) {.group-text{font-size: 22.5px; line-height: 37px;}}
